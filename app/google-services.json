@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "187097596205",
+    "firebase_url": "https://fastcampus-tinder-clone-default-rtdb.firebaseio.com",
+    "project_id": "fastcampus-tinder-clone",
+    "storage_bucket": "fastcampus-tinder-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187097596205:android:5e00fe963dfdb6283e13a4",
+        "android_client_info": {
+          "package_name": "com.example.tinderclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187097596205-07tlsmpelja35e11mievd1ujvb3f4vd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1riuCf6IMi4M_1mKVf1B4cvX6V8EbN1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187097596205-07tlsmpelja35e11mievd1ujvb3f4vd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
